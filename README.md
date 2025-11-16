@@ -1,6 +1,6 @@
-1. Language Distribution statistics.
+***1. Language Distribution statistics.***
 
-## Distribution of Languages in CN Dataset (Table 1)
+## Distribution of Languages in CN Dataset 
 
 | Language              | Count   | Language                | Count |
 |----------------------|--------:|------------------------|------:|
@@ -60,7 +60,7 @@
 
 ---
 
-## Distribution of Languages in CN Dataset (Table 2)
+## Distribution of Languages in CN Dataset 
 
 | Language              | Count   | Language                | Count |
 |----------------------|--------:|------------------------|------:|
@@ -93,6 +93,35 @@
 | Hungarian            | 1,874    | Gujarati               | 7 |
 | Danish               | 1,818    |                        |    |
 | Finnish              | 1,280    |                        |    |
+
+
+***2. Persuasion Technique Definitions***
+
+Below is the list of 23 persuasion techniques explored along with their formal definitions:
+
+- **Doubt** – Undermining credibility by questioning an individual’s character or attributes rather than addressing the actual issue or evidence.
+- **Repetition** – Reinforcing a point by reiterating the same idea multiple times within the discourse.
+- **Appeal to Fear–Prejudice** – Persuading or rejecting an idea by exploiting fear, aversion, or pre-existing biases toward the idea or its alternatives.
+- **Appeal to Authority** – Supporting a claim solely on the basis that it comes from a recognised authority, without presenting independent justification.
+- **Slogans** – Using short, memorable phrases that often rely on stereotyping or emotional triggers to influence opinion.
+- **Loaded Language** – Employing emotionally charged words or expressions to sway opinion rather than relying on factual reasoning.
+- **False Dilemma / No Choice** – Presenting a situation as if there are only two possible options when, in reality, more alternatives exist.
+- **Flag-Waving** – Promoting an idea by appealing to group pride or emphasising benefits to a specific community or identity.
+- **Name-Calling (Labeling)** – Assigning derogatory or simplistic labels to individuals or groups to discredit them.
+- **Causal Oversimplification** – Attributing an outcome to a single cause when multiple contributing factors exist.
+- **Consequential Oversimplification (Slippery Slope)** – Ignoring and/or understating the likelihood of the sequence of events from the first event leading to the end point (last event) of the slope.
+- **Appeal to Hypocrisy** – Dismissing an argument by accusing its proponent of hypocrisy rather than engaging with the substance of the claim.
+- **Obfuscation / Vagueness / Confusion** – Using ambiguous or unclear language that allows multiple interpretations, obscuring the main argument.
+- **Exaggeration / Minimisation** – Overstating or downplaying the significance of an event, fact, or claim to distort perception.
+- **Red Herring** – Distracting from the main topic by introducing unrelated or tangential issues.
+- **Guilt by Association** – Discrediting a person or idea by linking it to a group or concept with negative connotations.
+- **Conversation Killer** – Using statements that shut down discussion or discourage further critical engagement.
+- **Appeal to Popularity** – Claiming an idea is valid because it is widely accepted or unchallenged.
+- **Straw Man** – Misrepresenting an opposing argument in a weakened or distorted form in order to refute it more easily.
+- **Questioning the Reputation** – Attacking the moral character or trustworthiness of a person to undermine their position.
+- **Appeal to Time** – Arguing that an action is necessary because the “right time” has arrived, without deeper justification.
+- **Whataboutism** – Responding to criticism by making a counter-accusation of hypocrisy, avoiding direct engagement with the original argument.
+- **Appeal to Values** – Framing an idea as desirable by associating it with values the audience perceives as inherently positive.
 
 
 
