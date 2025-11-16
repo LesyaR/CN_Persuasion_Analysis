@@ -4,9 +4,12 @@
    Download the following datasets:
    - CN  
    - DBKF  
-   - EUvsDisinfo  
+   - EUvsDisinfo
+  
+   To extract the data for DBKF debunks, run the dbkf_query.rq in the following SPARQL end-point: https://dbkf.ontotext.com/graphdb/sparql
+   You can then export the results in the preferred format.
 
-2. **Infer the persuasion techniques**
+3. **Infer the persuasion techniques**
 
    a. **Set up the GATE Cloud Persuasion API**  
    - Go to the [GATE Cloud Persuasion API](https://gate.ac.uk/cloud) website.  
