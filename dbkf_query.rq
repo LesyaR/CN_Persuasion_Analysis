@@ -1,8 +1,0 @@
-
-\f0\fs24 \cf0 PREFIX schema: <http://schema.org/>\
-\
-SELECT ?textObj ?text\
-WHERE \{\
-  ?textObj schema:text ?text .\
-  FILTER(CONTAINS(STR(?textObj), "/TextObject/"))\
-\}}
