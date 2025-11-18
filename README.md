@@ -1,4 +1,3 @@
-***1. Language Distribution statistics.***
 
 ## Distribution of Languages in CN Dataset 
 
@@ -95,7 +94,7 @@
 | Finnish              | 1,280    |                        |    |
 
 
-***2. Persuasion Technique Definitions***
+## Persuasion Technique Definitions***
 
 Below is the list of 23 persuasion techniques explored along with their formal definitions:
 
