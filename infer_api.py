@@ -31,10 +31,9 @@ def run_inference(df, batch_size=32):
 if __name__ == "__main__":
     print("Loading datasets...")
     datasets = {
-        "cidii": pd.read_csv("datasets/normalised/cidii.csv"),
-        "coaid": pd.read_csv("datasets/normalised/coaid.csv"),
-        "climate_fever": pd.read_csv("datasets/normalised/climate_fever.csv"),
-        "euvsdisinfo": pd.read_csv("datasets/normalised/euvsdisinfo.csv"),
+        "notes": pd.read_csv("notes.csv"),
+        "dbkf": pd.read_csv("dbkf.csv"),
+        "euvsdisinfo": pd.read_csv("euvsdisinfo.csv"),
     }
 
     os.makedirs("datasets/processed", exist_ok=True)
